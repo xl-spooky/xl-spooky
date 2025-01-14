@@ -1,5 +1,4 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
+name: GitHub Metrics
 
 on:
   schedule:
@@ -22,6 +21,7 @@ jobs:
       - name: Generate Metrics
         uses: lowlighter/metrics@v3.34.0
         with:
+          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
           user: xl-spooky
