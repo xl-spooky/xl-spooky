@@ -26,7 +26,7 @@ Here are the programming languages, frameworks, and tools I use:
 ---
 
 ## 📊 GitHub Stats
-![Metrics](https://github.com/xl-spooky/<xl-spooky>/blob/main/github-metrics.svg)
+![Metrics](https://github.com/xl-spooky/xl-spooky/blob/main/github-metrics.svg)
 
 ---
 
