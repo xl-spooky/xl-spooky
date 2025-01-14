@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: GitHub Metrics
+name: Metrics
 
 on:
   schedule:
@@ -20,11 +20,10 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34.0
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # GitHub username
           user: xl-spooky
 
           template: classic
@@ -62,44 +61,3 @@ jobs:
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
           plugin_notable_types: commit, issue, pull_request, stars
-
-          plugin_trophies: yes
-          plugin_trophies_display: detailed
-
-          plugin_commit_activity: yes
-          plugin_commit_activity_days: 30
-
-          plugin_pull_requests: yes
-          plugin_pull_requests_days: 30
-          plugin_pull_requests_status: all
-
-          plugin_issues: yes
-          plugin_issues_days: 30
-          plugin_issues_status: all
-
-          plugin_forks: yes
-
-          plugin_stars: yes
-          plugin_stars_days: 30
-
-          plugin_releases: yes
-          plugin_releases_days: 30
-
-          plugin_continuous_integration: yes
-
-          plugin_topics: yes
-          plugin_topics_limit: 10
-
-          plugin_license: yes
-          plugin_license_color: yes
-          plugin_license_repositories: yes
-
-          config_custom_css: |
-            /* Customize your metrics page */
-            .metrics-header {
-              background-color: #282c34;
-              color: #61dafb;
-            }
-            .metrics-section {
-              border-bottom: 1px solid #eaeaea;
-            }
