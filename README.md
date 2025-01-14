@@ -1,32 +1,39 @@
-# 🐍 SPOOKY 🐍
+# Hi there! I'm xl_spooky 👋
 
-**`Hobby dev`**
+Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and contributing to awesome projects. Here's a little about me:
 
-   <p align="left">
-      <a href="https://github.com/xl-spooky?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/xl-spooky?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/xl-spooky?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/xl-spooky?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+## 🌟 About Me
+- 🔧 I'm a developer who loves working with Python, Docker, and many more tools.
+- 💻 Open-source enthusiast and contributor.
+- 🧠 Continuously learning new technologies and improving my skills.
+- 🎮 Gamer and tech enthusiast in my free time.
 
 ---
 
-### 🧰 Languages and Tools
+## 🚀 Tools & Technologies
+Here are the programming languages, frameworks, and tools I use:
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+![Python](https://skillicons.dev/icons?i=python)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Java](https://skillicons.dev/icons?i=java)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![Discord](https://skillicons.dev/icons?i=discord)
+![.NET](https://skillicons.dev/icons?i=dotnet)
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![Git](https://skillicons.dev/icons?i=git)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
-#
+---
 
-### 📊 Stats
+## 📊 GitHub Stats
+![Metrics](/github-metrics.svg)
 
-![$ xl-spooky $'s GitHub stats](https://github-readme-stats.vercel.app/api?username=xl-spooky&show_icons=true&theme=gruvbox)
+---
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+## 🔗 Connect With Me
+- 📧 Reach out to me via email at [your-email@example.com](mailto:your-email@example.com).
+- 🌐 Check out my other work and projects here on GitHub!
 
-#
+---
+
+Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or chat.
