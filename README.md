@@ -31,7 +31,7 @@ Here are the programming languages, frameworks, and tools I use:
 ---
 
 ## 🔗 Connect With Me
-- 📧 Reach out to me via email at [your-email@example.com](mailto:your-email@example.com).
+- 📧 Reach out to me via email at [spkydevelopment@gmail.com](mailto:spkydevelopment@gmail.com).
 - 🌐 Check out my other work and projects here on GitHub!
 
 ---
