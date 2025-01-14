@@ -22,6 +22,10 @@ Here are the programming languages, frameworks, and tools I use:
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
 ![Git](https://skillicons.dev/icons?i=git)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Shell](https://skillicons.dev/icons?i=shell)
+![CSS](https://skillicons.dev/icons?i=css)
+![HTML](https://skillicons.dev/icons?i=html)
+![PowerShell](https://skillicons.dev/icons?i=powershell)
 
 ---
 
