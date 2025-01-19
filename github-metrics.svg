@@ -274,19 +274,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 601kb of code in 417 edited files across 191 commits over last 30 days</small>
+                <small>estimation from 600kb of code in 413 edited files across 185 commits over last 30 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="409.1168850215096" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="409.1168850215096" y="0" width="28.408474286272973" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="437.52535930778254" y="0" width="18.70520874071177" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="456.2305680484943" y="0" width="1.4588629253030896" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="457.6894309737974" y="0" width="1.4405920023464998" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="459.1300229761439" y="0" width="0.46661126319906143" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.59663423934296" y="0" width="0.40336576065701996" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="408.9858020247813" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="408.9858020247813" y="0" width="28.4816590341701" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="437.4674610589514" y="0" width="18.753396333338436" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="456.2208573922899" y="0" width="1.462621188218897" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="457.6834785805088" y="0" width="1.44430319645893" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="459.1277817769677" y="0" width="0.46781332802377046" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.59559510499145" y="0" width="0.4044048950085004" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -501,7 +501,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 14 Jan 2025, 13:48:14
+                            On 14 Jan 2025, 13:55:16
                         </div>
                     </section>
                 </div>
@@ -517,7 +517,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">893bc48c</span>
+                            <span class="code">12da4cdf</span>
                             <span class="code">README.md</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
@@ -529,14 +529,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -31,7 +31,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">---<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">## 🔗 Connect With Me<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">- 📧 Reach out to me via email at [your-email@example.com](mailto:your-email@example.com).<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">- 📧 Reach out to me via email at [spkydevelopment@gmail.com](mailto:spkydevelopment@gmail.com).<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">- 🌐 Check out my other work and projects here on GitHub!<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">---</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -26,7 +26,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">---<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">## 📊 GitHub Stats<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">![Metrics](https://github.com/xl-spooky/&lt;xl-spooky&gt;/blob/main/github-metrics.svg)<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">![Metrics](https://github.com/xl-spooky/xl-spooky/blob/main/github-metrics.svg)<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">---<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jan 2025, 18:16:25 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jan 2025, 19:23:33 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
