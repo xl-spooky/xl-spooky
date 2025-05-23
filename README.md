@@ -25,6 +25,10 @@ Here are the programming languages, frameworks, and tools I use:
 ![CSS](https://skillicons.dev/icons?i=css)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![PowerShell](https://skillicons.dev/icons?i=powershell)
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![C#](https://skillicons.dev/icons?i=cs)
+![Objective-C](https://skillicons.dev/icons?i=objc)
 
 ---
 
