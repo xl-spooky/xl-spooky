@@ -56,3 +56,5 @@ jobs:
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
           plugin_notable_types: commit, issue, pull_request, stars
+
+          plugin_snippets: yes
